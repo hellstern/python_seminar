@@ -19,5 +19,5 @@ Her finder du mine demo filer, klik på dem og du kan downloade den enkelte fil
 * [13_tkinter_demo.py](13_tkinter_demo.py)
 
 ## Data filer
-* []()
-* []()
+* [sales_team.csv](sales_team.csv)
+* [invoices.xlsx](invoices.xlsx)
