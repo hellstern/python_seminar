@@ -1,5 +1,5 @@
 # IDA Python Seminar
-Her finder du mine demo filer
+Her finder du mine demo filer, klik på dem og du kan downloade den enkelte fil
 
 ## Filer
 
