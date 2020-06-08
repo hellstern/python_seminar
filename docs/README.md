@@ -1,6 +1,9 @@
 # IDA Python Seminar
 Her finder du mine demo filer, klik på dem og du kan downloade den enkelte fil
 
+Tue Hellstern
+
+
 ## Python kode filer
 
 * [01_grund_syntax.py](01_grund_syntax.py)
